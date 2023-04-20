@@ -9,5 +9,10 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
         олваов
         // second branch code
+        // second brandlfdj djjfld f
+        // second brandlfdj djjfld f
+        // second brandlfdj djjfld f
+        // second brandlfdj djjfld f
+        // second brandlfdj djjfld f
     }
 }
